@@ -5,7 +5,7 @@ services:
     environment:
       POSTGRES_USER: nimish
       POSTGRES_PASSWORD: nimish@123
-      POSTGRES_DB: postgres
+      POSTGRES_DB: product
 #      PGDATA: /data/postgres
 #    volumes:
 #      - postgres:/data/postgres
