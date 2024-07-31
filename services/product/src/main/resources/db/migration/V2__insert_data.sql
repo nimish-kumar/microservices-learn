@@ -1,0 +1,33 @@
+INSERT INTO category (name, description) VALUES
+ ('Electronics', 'Devices and gadgets'),
+ ('Clothing', 'Apparel and accessories'),
+ ('Home & Kitchen', 'Home appliances and kitchenware'),
+ ('Books', 'Books and literature'),
+ ('Beauty & Personal Care', 'Cosmetics and personal hygiene products'),
+ ('Sports & Outdoors', 'Sports equipment and outdoor gear'),
+ ('Toys & Games', 'Toys and games for children'),
+ ('Automotive', 'Car accessories and tools'),
+ ('Music', 'Musical instruments and accessories'),
+ ('Grocery', 'Food and beverage items'),
+ ('Office Supplies', 'Stationery and office supplies'),
+ ('Pet Supplies', 'Products for pets'),
+ ('Health & Wellness', 'Healthcare products and supplements'),
+ ('Jewelry', 'Jewelry and accessories'),
+ ('Garden & Outdoor', 'Gardening tools and outdoor furniture');
+
+INSERT INTO product (name, description, available_qty, price, category_id) VALUES
+('Smartphone', 'Latest model smartphone', 50, 699.99, 1),
+('Laptop', 'High performance laptop', 30, 1299.99, 1),
+('T-shirt', '100% cotton T-shirt', 100, 19.99, 2),
+('Jeans', 'Denim jeans', 60, 49.99, 2),
+('Blender', 'High-speed blender', 40, 89.99, 3),
+('Coffee Maker', 'Automatic coffee maker', 25, 59.99, 3),
+('Novel', 'Fictional novel', 150, 14.99, 4),
+('Textbook', 'Educational textbook', 80, 79.99, 4),
+('Lipstick', 'Matte finish lipstick', 200, 9.99, 5),
+('Shampoo', 'Herbal shampoo', 120, 7.99, 5),
+('Football', 'Standard size football', 70, 29.99, 6),
+('Tennis Racket', 'Professional tennis racket', 20, 99.99, 6),
+('Puzzle Game', '1000-piece puzzle', 40, 19.99, 7),
+('Action Figure', 'Collectible action figure', 30, 29.99, 7),
+('Car Seat Cover', 'Leather car seat cover', 50, 99.99, 8);

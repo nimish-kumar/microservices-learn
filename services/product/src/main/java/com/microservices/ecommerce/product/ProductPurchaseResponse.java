@@ -1,4 +1,12 @@
 package com.microservices.ecommerce.product;
 
-public record ProductPurchaseResponse() {
+import java.math.BigDecimal;
+
+public record ProductPurchaseResponse(
+        Long productId,
+        String name,
+        String description,
+        BigDecimal price,
+        double quantity
+) {
 }
