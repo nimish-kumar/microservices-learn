@@ -51,6 +51,7 @@ public class OrderService {
 
         // TODO: start payment process
 
+
         // send the order confirmation --> notification-ms (kafka)
         orderProducer.sendOrderConfirmation(new OrderConfirmation(
                 request.reference(),
