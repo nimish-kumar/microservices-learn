@@ -3,6 +3,7 @@ package com.microservices.ecommerce.product;
 import com.microservices.ecommerce.exception.ProductPurchaseException;
 import jakarta.persistence.EntityNotFoundException;
 import lombok.RequiredArgsConstructor;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
@@ -15,7 +16,9 @@ import java.util.stream.Collectors;
 @RequiredArgsConstructor
 public class ProductService {
 
+    @Autowired
     private ProductRepository repository;
+    @Autowired
     private ProductMapper mapper;
 
     public Long createProduct(ProductRequest request) {
