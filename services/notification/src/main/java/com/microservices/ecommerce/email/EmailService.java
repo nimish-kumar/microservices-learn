@@ -1,6 +1,6 @@
-package com.microservces.ecommerce.email;
+package com.microservices.ecommerce.email;
 
-import com.microservces.ecommerce.kafka.order.Product;
+import com.microservices.ecommerce.kafka.order.Product;
 import jakarta.mail.MessagingException;
 import jakarta.mail.internet.MimeMessage;
 import lombok.RequiredArgsConstructor;
@@ -19,7 +19,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import static com.microservces.ecommerce.email.EmailTemplates.*;
+import static com.microservices.ecommerce.email.EmailTemplates.*;
 
 @Service
 @RequiredArgsConstructor

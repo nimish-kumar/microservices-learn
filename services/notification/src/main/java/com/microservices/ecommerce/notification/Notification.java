@@ -1,7 +1,7 @@
-package com.microservces.ecommerce.notification;
+package com.microservices.ecommerce.notification;
 
-import com.microservces.ecommerce.kafka.order.OrderConfirmation;
-import com.microservces.ecommerce.kafka.payment.PaymentConfirmation;
+import com.microservices.ecommerce.kafka.order.OrderConfirmation;
+import com.microservices.ecommerce.kafka.payment.PaymentConfirmation;
 import lombok.*;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

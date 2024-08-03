@@ -1,6 +1,6 @@
-package com.microservces.ecommerce.kafka.order;
+package com.microservices.ecommerce.kafka.order;
 
-import com.microservces.ecommerce.kafka.payment.PaymentMethod;
+import com.microservices.ecommerce.kafka.payment.PaymentMethod;
 
 import java.math.BigDecimal;
 import java.util.List;

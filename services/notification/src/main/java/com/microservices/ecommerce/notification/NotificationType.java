@@ -1,4 +1,4 @@
-package com.microservces.ecommerce.notification;
+package com.microservices.ecommerce.notification;
 
 public enum NotificationType {
     ORDER_CONFIRMATION,

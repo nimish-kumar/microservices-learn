@@ -1,4 +1,4 @@
-package com.microservces.ecommerce.kafka.payment;
+package com.microservices.ecommerce.kafka.payment;
 
 import java.math.BigDecimal;
 

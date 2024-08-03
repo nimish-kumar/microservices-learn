@@ -1,4 +1,4 @@
-package com.microservces.ecommerce.kafka.order;
+package com.microservices.ecommerce.kafka.order;
 
 public record Customer(
         String id,

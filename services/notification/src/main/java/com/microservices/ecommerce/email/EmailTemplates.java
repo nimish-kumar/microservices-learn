@@ -1,4 +1,4 @@
-package com.microservces.ecommerce.email;
+package com.microservices.ecommerce.email;
 
 import lombok.Getter;
 

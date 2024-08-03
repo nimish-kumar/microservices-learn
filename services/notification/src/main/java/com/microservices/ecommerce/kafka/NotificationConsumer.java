@@ -1,11 +1,11 @@
-package com.microservces.ecommerce.kafka;
+package com.microservices.ecommerce.kafka;
 
-import com.microservces.ecommerce.email.EmailService;
-import com.microservces.ecommerce.kafka.order.OrderConfirmation;
-import com.microservces.ecommerce.kafka.payment.PaymentConfirmation;
-import com.microservces.ecommerce.notification.Notification;
-import com.microservces.ecommerce.notification.NotificationRepository;
-import com.microservces.ecommerce.notification.NotificationType;
+import com.microservices.ecommerce.email.EmailService;
+import com.microservices.ecommerce.kafka.order.OrderConfirmation;
+import com.microservices.ecommerce.kafka.payment.PaymentConfirmation;
+import com.microservices.ecommerce.notification.Notification;
+import com.microservices.ecommerce.notification.NotificationRepository;
+import com.microservices.ecommerce.notification.NotificationType;
 import jakarta.mail.MessagingException;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

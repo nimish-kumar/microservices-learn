@@ -1,4 +1,4 @@
-package com.microservces.ecommerce.kafka.payment;
+package com.microservices.ecommerce.kafka.payment;
 
 public enum PaymentMethod {
     PAYPAL,
