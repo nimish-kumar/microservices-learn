@@ -1,0 +1,84 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ConfigServerApplication<config-server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.microservices.configserver.ConfigServerApplication",
+            "projectName": "config-server",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-CustomerApplication<customer>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.microservices.ecommerce.CustomerApplication",
+            "projectName": "customer",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-DiscoveryApplication<discovery>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.microservices.discovery.DiscoveryApplication",
+            "projectName": "discovery",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-GatewayApplication<gateway>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.microservices.ecommerce.GatewayApplication",
+            "projectName": "gateway",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-NotificationsApplication<notification>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.microservices.ecommerce.NotificationsApplication",
+            "projectName": "notification",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-OrderApplication<order>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.microservices.ecommerce.OrderApplication",
+            "projectName": "order",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-PaymentsApplication<payments>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.microservices.ecommerce.PaymentsApplication",
+            "projectName": "payments",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ProductApplication<product>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.microservices.ecommerce.ProductApplication",
+            "projectName": "product",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

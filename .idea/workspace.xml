@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffad2931-0de6-4703-b38b-c73a9fce683a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/config-server/src/main/resources/configurations/notification-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/services/config-server/src/main/resources/configurations/notification-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/config-server/src/main/resources/configurations/payment-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/services/config-server/src/main/resources/configurations/payment-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/config-server/src/main/resources/configurations/product-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/services/config-server/src/main/resources/configurations/product-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/notification/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/services/notification/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/notification/src/main/java/com/microservces/ecommerce/NotificationsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/notification/src/main/java/com/microservices/ecommerce/NotificationsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/notification/src/main/java/com/microservces/ecommerce/email/EmailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/notification/src/main/java/com/microservices/ecommerce/email/EmailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/notification/src/main/java/com/microservces/ecommerce/email/EmailTemplates.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/notification/src/main/java/com/microservices/ecommerce/email/EmailTemplates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/notification/src/main/java/com/microservces/ecommerce/kafka/NotificationConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/notification/src/main/java/com/microservices/ecommerce/kafka/NotificationConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/notification/src/main/java/com/microservces/ecommerce/kafka/order/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/notification/src/main/java/com/microservices/ecommerce/kafka/order/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/notification/src/main/java/com/microservces/ecommerce/kafka/order/OrderConfirmation.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/notification/src/main/java/com/microservices/ecommerce/kafka/order/OrderConfirmation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/notification/src/main/java/com/microservces/ecommerce/kafka/order/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/notification/src/main/java/com/microservices/ecommerce/kafka/order/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/notification/src/main/java/com/microservces/ecommerce/kafka/payment/PaymentConfirmation.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/notification/src/main/java/com/microservices/ecommerce/kafka/payment/PaymentConfirmation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/notification/src/main/java/com/microservces/ecommerce/kafka/payment/PaymentMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/notification/src/main/java/com/microservices/ecommerce/kafka/payment/PaymentMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/notification/src/main/java/com/microservces/ecommerce/notification/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/notification/src/main/java/com/microservices/ecommerce/notification/Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/notification/src/main/java/com/microservces/ecommerce/notification/NotificationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/notification/src/main/java/com/microservices/ecommerce/notification/NotificationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/notification/src/main/java/com/microservces/ecommerce/notification/NotificationType.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/notification/src/main/java/com/microservices/ecommerce/notification/NotificationType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/notification/src/test/java/com/microservces/ecommerce/NotificationsApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/notification/src/test/java/com/microservices/ecommerce/NotificationsApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/order/src/main/java/com/microservices/ecommerce/handler/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/order/src/main/java/com/microservices/ecommerce/handler/GlobalExceptionHandler.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nimish-kumar&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:nimish-kumar/microservices-learn.git&quot;,
+    &quot;accountId&quot;: &quot;64f16299-68f5-4ed8-ac3a-4665c648d583&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2k87e1Lpt2VbBX2RJ6hn4LPqaMZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ConfigServerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiscoveryApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GatewayApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NotificationsApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrderApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PaymentsApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MavenRunConfiguration" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GatewayApplication">
+    <configuration name="GatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microservices.ecommerce.GatewayApplication" />
+      <module name="gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservices.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotificationsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microservices.ecommerce.NotificationsApplication" />
+      <module name="notification" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservices.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microservices.ecommerce.OrderApplication" />
+      <module name="order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservices.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microservices.ecommerce.PaymentsApplication" />
+      <module name="payments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservices.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microservices.ecommerce.ProductApplication" />
+      <module name="product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservices.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GatewayApplication" />
+        <item itemvalue="Application.NotificationsApplication" />
+        <item itemvalue="Application.PaymentsApplication" />
+        <item itemvalue="Application.OrderApplication" />
+        <item itemvalue="Application.ProductApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffad2931-0de6-4703-b38b-c73a9fce683a" name="Changes" comment="" />
+      <created>1722653445068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722653445068</updated>
+    </task>
+    <servers />
+  </component>
+</project>

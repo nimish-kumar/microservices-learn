@@ -1,7 +1,6 @@
 package com.microservices.ecommerce.handler;
 
 import com.microservices.ecommerce.exception.BusinessException;
-import com.microservices.ecommerce.exception.ProductPurchaseException;
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
